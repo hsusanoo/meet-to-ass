@@ -6,7 +6,7 @@ file in `.sbv` format. This is a simple (and messy) script that converts the tra
 ### Usage
 
 ```sh
-node app.js c|convert -i|--input <inputFile> [--output <outputFile>]
+node app.js c|convert -i|--input <inputFile> [-o|--output <outputFile>]
 ```
 #### Example
 * Input file (transcript.sbv):
