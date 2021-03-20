@@ -1,0 +1,38 @@
+{
+  "Script Info": {
+    "Title": "Default Aegisub file",
+    "ScriptType": "v4.00+",
+    "WrapStyle": 0,
+    "ScaledBorderAndShadow": "yes",
+    "YCbCr Matrix": "TV.601",
+    "PlayResX": 1280,
+    "PlayResY": 720
+  },
+  "V4+ Styles": [
+    {
+      "Name": "google meet chat popup",
+      "Fontname": "Roboto",
+      "Fontsize": 20,
+      "PrimaryColour": "&H00000000",
+      "SecondaryColour": "&H00606B05",
+      "OutlineColour": "&H00FFFFFF",
+      "BackColour": "&H00FFFFFF",
+      "Bold": 0,
+      "Italic": 0,
+      "Underline": 0,
+      "StrikeOut": 0,
+      "ScaleX": 100,
+      "ScaleY": 100,
+      "Spacing": 0,
+      "Angle": 0,
+      "BorderStyle": 1,
+      "Outline": 1,
+      "Shadow": 0,
+      "Alignment": 1,
+      "MarginL": 10,
+      "MarginR": 10,
+      "MarginV": 10,
+      "Encoding": 1
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "meet-to-ass",
+  "version": "0.1.0",
+  "description": "Google Meet .sbv transcript to .ass subtitles converter",
+  "main": "index.js",
+  "type": "module",
+  "author": "hsusanoo",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "yargs": "^15.0.5"
+  }
+}
