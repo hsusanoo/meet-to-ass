@@ -1,7 +1,7 @@
 # Google Meet transcript to subtitles converter
 
 When you record a meeting in google meet, you'll see 2 files in your drive folder: the video file and the transcript 
-file in `.sbv` format. This is a simple (and messy) script that converts the transcript to a subtitles file in `.ass` format.
+file in `.sbv` format. This is a simple (and messy) script that converts the transcript to a subtitles file in `.ass` format with some styling.
 
 ### Usage
 
